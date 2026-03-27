@@ -1,0 +1,2 @@
+-- Seed inicial propositalmente vazio.
+-- Categorias padrão e formas de pagamento entram quando a regra final do TN for confirmada.
