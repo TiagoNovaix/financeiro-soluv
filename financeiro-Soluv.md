@@ -1,7 +1,7 @@
-# Control Tower — PRD v1.0
+# Financeiro Soluv.IA — PRD v1.0
 
 ## Nome do App
-**Control Tower Financeira**
+**Financeiro Soluv.IA**
 
 ---
 
